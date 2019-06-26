@@ -1,0 +1,63 @@
+{
+	"a1318000000qrfAAAQ": {
+		"tableData": [{
+			"Name": "HC-48832",
+			"lastModifiedDate": "2019-06-20T23:14:38.000Z",
+			"data": ["F10", "9C"],
+			"columns": ["Pmax", "Pset"]
+		}, {
+			"Name": "HC-48831",
+			"lastModifiedDate": "2019-06-20T23:13:57.000Z",
+			"data": ["F8", "9C"],
+			"columns": ["Pmax", "Pset"]
+		}, {
+			"Name": "HC-48830",
+			"lastModifiedDate": "2019-06-20T23:11:10.000Z",
+			"data": ["F9", "9C"],
+			"columns": ["Pmax", "Pset"]
+		}, {
+			"Name": "HC-48824",
+			"lastModifiedDate": "2019-06-20T15:56:39.000Z",
+			"data": [],
+			"columns": []
+		}, {
+			"Name": "HC-48819",
+			"lastModifiedDate": "2019-06-20T12:08:13.000Z",
+			"data": [],
+			"columns": []
+		}],
+		"tableColumns": ["Pmax", "Pset"],
+		"chartData": [{
+			"numberOfBlanks": 0,
+			"lastModifiedDate": "2019-06-20T23:14:38.000Z",
+			"data": ["76", "80", "6", "-10", "+19", "1", "2", "5", "82", "10"],
+			"columns": ["Old", "New", "Offset", "Min", "Max", "Shock", "Warn", "#Activations", "Zero", "Pmin"],
+			"columnName": "HC-48832"
+		}, {
+			"numberOfBlanks": 0,
+			"lastModifiedDate": "2019-06-20T23:13:57.000Z",
+			"data": ["89", "76", "4", "-12", "+13", "3", "5", "2", "85", "12"],
+			"columns": ["Old", "New", "Offset", "Min", "Max", "Shock", "Warn", "#Activations", "Zero", "Pmin"],
+			"columnName": "HC-48831"
+		}, {
+			"numberOfBlanks": 0,
+			"lastModifiedDate": "2019-06-20T23:11:10.000Z",
+			"data": ["70", "89", "12", "-12", "+25", "2", "3", null, "81", "10"],
+			"columns": ["Old", "New", "Offset", "Min", "Max", "Shock", "Warn", "#Activations", "Zero", "Pmin"],
+			"columnName": "HC-48830"
+		}, {
+			"numberOfBlanks": 0,
+			"lastModifiedDate": "2019-06-20T15:56:39.000Z",
+			"data": [null, null, null, null, null, null, null, null, null, null],
+			"columns": ["Old", "New", "Offset", "Min", "Max", "Shock", "Warn", "#Activations", "Zero", "Pmin"],
+			"columnName": "HC-48824"
+		}, {
+			"numberOfBlanks": 0,
+			"lastModifiedDate": "2019-06-20T12:08:13.000Z",
+			"data": [null, null, null, null, null, null, null, null, null, null],
+			"columns": ["Old", "New", "Offset", "Min", "Max", "Shock", "Warn", "#Activations", "Zero", "Pmin"],
+			"columnName": "HC-48819"
+		}],
+		"chartColumns": ["Old", "New", "Offset", "Min", "Max", "Shock", "Warn", "#Activations", "Zero", "Pmin"]
+	}
+}
